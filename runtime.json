@@ -1,0 +1,1442 @@
+[
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.140789
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.1492
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.172141
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.162824
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.195169
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.217434
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.168844
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.176889
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.204518
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.187016
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.216553
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.249657
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.174531
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.205577
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.273518
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.225379
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.248329
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.286985
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.213189
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.22818
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.271076
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.256503
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.282465
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.31396
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.239144
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.261232
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.286255
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.272534
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.32435
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.358575
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.155183
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.175991
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.191496
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.191291
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.203246
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.232053
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.180468
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.202332
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.229801
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.213681
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.244046
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.26043
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.193278
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.224316
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.245957
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.237094
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.266254
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.303575
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.226274
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.254391
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.28356
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.266933
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.303852
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.355251
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.251361
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.327843
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.311375
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.307631
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.33606
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.382609
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.080749
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.08271
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.089687
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.088611
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.103448
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.113574
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.096497
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.10722
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.127411
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.120086
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.135204
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.17028
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.146033
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.153102
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.179091
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.164635
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.229009
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.211362
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.165357
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.190569
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.220353
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.202926
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.23801
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.274598
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.202586
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.229014
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.274341
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.250329
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.273082
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.306881
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.065152
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.088757
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.102396
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.089046
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.092362
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.112665
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.123147
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.128625
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.153693
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.144372
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.141787
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.222719
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.152321
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.171041
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.183793
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.183894
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.194862
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.227772
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.183569
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.223274
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.245411
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.219631
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.254872
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.278542
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.231303
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.263502
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.278555
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.273443
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.308147
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 0.334838
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 18.287532
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 20.243137
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 23.235879
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 21.441061
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 22.651716
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 26.597468
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 19.05843
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 24.862296
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 27.376166
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 26.004997
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 27.712542
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 30.448775
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 23.134029
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 28.940848
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 26.91696
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 26.797971
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 29.067638
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 34.881806
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 24.297503
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 25.910174
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 30.005847
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 28.819411
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 31.72517
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 37.542299
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 24.769414
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 27.885395
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 32.117888
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 31.189793
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 33.603453
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 38.185149
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 20.385448
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 22.184634
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 24.0063
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 23.110728
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 24.945013
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 50,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 28.469092
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 21.654257
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 25.725926
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 27.529544
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 26.171452
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 29.266179
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 100,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 34.710309
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 22.946825
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 28.54026
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 31.491706
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 27.699772
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 32.002814
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 150,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 37.334933
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 24.52271
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 28.083936
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 35.692943
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 31.176729
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 34.942413
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 200,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 40.192858
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 27.922491
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 30.12123
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 33.350792
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 32.733154
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 37.030736
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "participants": 250,
+        "byzantine_ratio": 50,
+        "runtime_seconds": 41.751074
+    }
+]
