@@ -9,7 +9,7 @@ The framework enables multiple federated participants to collaboratively constru
 
 # 📌 Global Architecture
 
-![Global Architecture](Global%20architecture%20.png)
+![Global Architecture](global%20architecture%20.png)
 
 The BR-FedFCA architecture consists of two main components:
 
