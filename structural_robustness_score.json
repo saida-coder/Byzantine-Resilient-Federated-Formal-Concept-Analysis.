@@ -4,1007 +4,3455 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 30.7692
+        "structural_robustness_score": 28.102,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 49.567
+        "structural_robustness_score": 45.9989,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 60.1121
+        "structural_robustness_score": 57.9318,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 25.5632
+        "structural_robustness_score": 22.1979,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 60.1121
+        "structural_robustness_score": 57.9492,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 49.567
+        "structural_robustness_score": 46.639,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 27.3724
+        "structural_robustness_score": 23.6435,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 50.1786
+        "structural_robustness_score": 46.1085,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 62.7041
+        "structural_robustness_score": 59.8648,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 35.3316
+        "structural_robustness_score": 31.4093,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 62.7041
+        "structural_robustness_score": 59.9743,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 50.1786
+        "structural_robustness_score": 46.6788,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 31.1651
+        "structural_robustness_score": 26.7969,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 47.4726
+        "structural_robustness_score": 43.4179,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 46.6228
+        "structural_robustness_score": 42.9038,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 18.1216
+        "structural_robustness_score": 13.4513,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 49.2867
+        "structural_robustness_score": 46.0479,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 37.1045
+        "structural_robustness_score": 32.7967,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 28.5442
+        "structural_robustness_score": 24.0139,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 52.439
+        "structural_robustness_score": 47.7515,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 57.279
+        "structural_robustness_score": 52.8335,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 28.7348
+        "structural_robustness_score": 24.7838,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 57.279
+        "structural_robustness_score": 52.6892,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 52.439
+        "structural_robustness_score": 48.5696,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 28.1858
+        "structural_robustness_score": 24.1005,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 27.9914
+        "structural_robustness_score": 24.4735,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 41.4526
+        "structural_robustness_score": 37.8517,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 18.0778
+        "structural_robustness_score": 14.7478,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 34.7792
+        "structural_robustness_score": 31.7498,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 27.9914
+        "structural_robustness_score": 25.6438,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 26.4949
+        "structural_robustness_score": 22.1046,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 52.445
+        "structural_robustness_score": 48.4579,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 57.2876
+        "structural_robustness_score": 53.6118,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 30.7927
+        "structural_robustness_score": 26.8195,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 57.2876
+        "structural_robustness_score": 53.4234,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 49.2055
+        "structural_robustness_score": 45.3979,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 17.4544
+        "structural_robustness_score": 12.8533,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 53.7661
+        "structural_robustness_score": 49.5407,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 50.5199
+        "structural_robustness_score": 45.9244,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 33.0655
+        "structural_robustness_score": 28.8859,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 50.5199
+        "structural_robustness_score": 46.3804,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 53.7661
+        "structural_robustness_score": 49.159,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 17.0709
+        "structural_robustness_score": 12.0699,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 54.8007
+        "structural_robustness_score": 50.5016,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 41.708
+        "structural_robustness_score": 37.0405,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 24.637
+        "structural_robustness_score": 19.8702,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 41.708
+        "structural_robustness_score": 36.9494,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "mushroom",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 54.8007
+        "structural_robustness_score": 50.2926,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 28.6
+        "structural_robustness_score": 25.3673,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 50.8
+        "structural_robustness_score": 47.4817,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 58.4
+        "structural_robustness_score": 55.5629,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 34.5
+        "structural_robustness_score": 31.3077,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 59.1
+        "structural_robustness_score": 56.5722,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 62.7
+        "structural_robustness_score": 59.2917,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 25.9
+        "structural_robustness_score": 22.2425,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 48.2
+        "structural_robustness_score": 44.8714,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 63.9
+        "structural_robustness_score": 60.2633,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 31.8
+        "structural_robustness_score": 28.2511,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 61.3
+        "structural_robustness_score": 57.7643,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 59.4
+        "structural_robustness_score": 55.9562,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 23.4
+        "structural_robustness_score": 19.0446,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 45.6
+        "structural_robustness_score": 41.2589,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 55.2
+        "structural_robustness_score": 51.781,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 28.6
+        "structural_robustness_score": 24.0063,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 56.0
+        "structural_robustness_score": 52.6115,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 52.6
+        "structural_robustness_score": 48.3667,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 21.7
+        "structural_robustness_score": 17.3258,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 43.9
+        "structural_robustness_score": 39.2074,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 57.9
+        "structural_robustness_score": 53.3274,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 26.9
+        "structural_robustness_score": 22.3212,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 58.5
+        "structural_robustness_score": 53.6193,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 54.1
+        "structural_robustness_score": 50.2188,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 24.2
+        "structural_robustness_score": 20.8944,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 42.8
+        "structural_robustness_score": 39.509,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 54.6
+        "structural_robustness_score": 51.6625,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 30.9
+        "structural_robustness_score": 27.9991,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 55.2
+        "structural_robustness_score": 51.4099,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 60.3
+        "structural_robustness_score": 56.8213,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 22.8
+        "structural_robustness_score": 18.3443,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 45.1
+        "structural_robustness_score": 40.8014,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 56.8
+        "structural_robustness_score": 53.0392,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 28.4
+        "structural_robustness_score": 24.5347,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 57.4
+        "structural_robustness_score": 54.1107,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 56.7
+        "structural_robustness_score": 52.8047,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 20.5
+        "structural_robustness_score": 15.7688,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 42.6
+        "structural_robustness_score": 38.6337,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 52.1
+        "structural_robustness_score": 48.0869,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 25.7
+        "structural_robustness_score": 21.1859,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 52.8
+        "structural_robustness_score": 48.0293,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 54.2
+        "structural_robustness_score": 50.6051,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 18.9
+        "structural_robustness_score": 13.6896,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 40.7
+        "structural_robustness_score": 35.5346,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 50.4
+        "structural_robustness_score": 45.3868,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 23.1
+        "structural_robustness_score": 17.6938,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 55.9
+        "structural_robustness_score": 50.688,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "chess",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 51.9
+        "structural_robustness_score": 47.4599,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 24.9806
+        "structural_robustness_score": 21.7599,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 59.9844
+        "structural_robustness_score": 56.5634,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 59.9596
+        "structural_robustness_score": 56.7231,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 34.979
+        "structural_robustness_score": 31.9863,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 59.9596
+        "structural_robustness_score": 57.168,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 59.9844
+        "structural_robustness_score": 57.0713,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 34.9597
+        "structural_robustness_score": 31.0386,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 37.4969
+        "structural_robustness_score": 34.2666,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 47.4442
+        "structural_robustness_score": 44.3001,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 12.4845
+        "structural_robustness_score": 8.4108,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 47.4442
+        "structural_robustness_score": 44.1531,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 37.4969
+        "structural_robustness_score": 33.5309,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 29.16
+        "structural_robustness_score": 24.9707,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 41.88
+        "structural_robustness_score": 37.5901,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 53.52
+        "structural_robustness_score": 49.5077,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 17.64
+        "structural_robustness_score": 13.2078,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 50.27
+        "structural_robustness_score": 46.5852,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 40.48
+        "structural_robustness_score": 36.8415,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 20.65
+        "structural_robustness_score": 15.4506,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 48.52
+        "structural_robustness_score": 43.4761,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 41.06
+        "structural_robustness_score": 36.1149,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 25.72
+        "structural_robustness_score": 20.9115,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 41.06
+        "structural_robustness_score": 36.8065,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 54.48
+        "structural_robustness_score": 50.2565,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 23.59
+        "structural_robustness_score": 19.6651,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 53.04
+        "structural_robustness_score": 49.1632,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 57.25
+        "structural_robustness_score": 53.7778,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 33.66
+        "structural_robustness_score": 29.9416,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 57.25
+        "structural_robustness_score": 53.7518,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "structural_robustness_score": 60.12
+        "structural_robustness_score": 57.0115,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 27.32
+        "structural_robustness_score": 23.0843,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 35.93
+        "structural_robustness_score": 31.7165,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 47.52
+        "structural_robustness_score": 43.0758,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 29.08
+        "structural_robustness_score": 25.1026,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 49.32
+        "structural_robustness_score": 45.8984,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "structural_robustness_score": 49.36
+        "structural_robustness_score": 45.0979,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 21.77
+        "structural_robustness_score": 17.2101,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 42.64
+        "structural_robustness_score": 37.9106,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 44.08
+        "structural_robustness_score": 39.2141,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 27.49
+        "structural_robustness_score": 22.8995,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 44.08
+        "structural_robustness_score": 39.8606,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "structural_robustness_score": 51.23
+        "structural_robustness_score": 47.0681,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 15.76
+        "structural_robustness_score": 10.5897,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 46.39
+        "structural_robustness_score": 40.8757,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 39.72
+        "structural_robustness_score": 34.2359,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 23.81
+        "structural_robustness_score": 18.9921,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 39.72
+        "structural_robustness_score": 34.6631,
+        "trustthreshold": "0.5"
     },
     {
         "dataset": "T10I4D100K",
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "structural_robustness_score": 49.46
+        "structural_robustness_score": 44.5877,
+        "trustthreshold": "0.5"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 30.7692,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 49.567,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 60.1121,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 25.5632,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 60.1121,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 49.567,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 27.3724,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 50.1786,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 62.7041,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 35.3316,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 62.7041,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 50.1786,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 31.1651,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 47.4726,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 46.6228,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 18.1216,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 49.2867,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 37.1045,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 28.5442,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 52.439,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 57.279,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 28.7348,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 57.279,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 52.439,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 28.1858,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 27.9914,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 41.4526,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 18.0778,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 34.7792,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 27.9914,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 26.4949,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 52.445,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 57.2876,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 30.7927,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 57.2876,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 49.2055,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 17.4544,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 53.7661,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 50.5199,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 33.0655,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 50.5199,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 53.7661,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 17.0709,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 54.8007,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 41.708,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 24.637,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 41.708,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 54.8007,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 28.6,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 50.8,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 58.4,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 34.5,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 59.1,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 62.7,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 25.9,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 48.2,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 63.9,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 31.8,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 61.3,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 59.4,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 23.4,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 45.6,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 55.2,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 28.6,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 56.0,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 52.6,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 21.7,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 43.9,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 57.9,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 26.9,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 58.5,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 54.1,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 24.2,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 42.8,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 54.6,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 30.9,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 55.2,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 60.3,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 22.8,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 45.1,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 56.8,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 28.4,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 57.4,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 56.7,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 20.5,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 42.6,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 52.1,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 25.7,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 52.8,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 54.2,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 18.9,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 40.7,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 50.4,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 23.1,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 55.9,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 51.9,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 24.9806,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 59.9844,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 59.9596,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 34.979,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 59.9596,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 59.9844,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 34.9597,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 37.4969,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 47.4442,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 12.4845,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 47.4442,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 37.4969,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 29.16,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 41.88,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 53.52,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 17.64,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 50.27,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 40.48,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 20.65,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 48.52,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 41.06,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 25.72,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 41.06,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 54.48,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 23.59,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 53.04,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 57.25,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 33.66,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 57.25,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 60.12,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 27.32,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 35.93,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 47.52,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 29.08,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 49.32,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 49.36,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 21.77,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 42.64,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 44.08,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 27.49,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 44.08,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 51.23,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 15.76,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 46.39,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 39.72,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 23.81,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 39.72,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 49.46,
+        "trustthreshold": "0.7"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 33.8776,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 52.1685,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 62.8488,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 27.8187,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 63.2174,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 52.6142,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 29.6322,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 53.818,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 65.9092,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 38.8649,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 66.2922,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 53.8526,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 34.1465,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 51.473,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 50.2083,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 21.3562,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 52.4298,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 40.8919,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 32.2142,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 56.3971,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 61.4833,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 31.9959,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 61.3033,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 56.6395,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 31.4092,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 30.8347,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 44.9551,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 20.8873,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 37.6874,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 31.3113,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 29.3084,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 55.37,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 61.1667,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 34.6044,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 60.0311,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 52.5204,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 21.4125,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 57.7849,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 53.7033,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 37.2488,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 54.5659,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 57.867,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 21.0932,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 58.3826,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 45.3169,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 28.8181,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 46.1185,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "mushroom",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 59.5729,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 30.5662,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 53.8038,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 61.2169,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 37.1679,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 61.736,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 65.8693,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 28.9513,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 50.8698,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 66.5912,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 35.354,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 64.9512,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 62.2327,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 26.712,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 49.5195,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 59.3812,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 32.2611,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 60.1506,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 56.5769,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 25.0979,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 47.4443,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 62.1927,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 30.1625,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 61.9633,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 57.7302,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 27.3204,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 45.2602,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 57.0737,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 33.656,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 58.5224,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 63.5784,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 26.5653,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 48.4783,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 60.2892,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 31.9972,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 60.7278,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 60.107,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 23.589,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 45.8432,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 56.0089,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 29.706,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 56.3959,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 58.7411,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 22.8973,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 44.8294,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 54.3447,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 27.3036,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 59.7264,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "chess",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 56.2269,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 27.8161,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 62.862,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 62.5446,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 37.3281,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 62.77,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 62.9936,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 38.5989,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 40.1348,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 51.2609,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 15.0003,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 51.0112,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 41.5396,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 32.6247,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 45.4199,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 56.6879,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 21.563,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 53.7294,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 43.8169,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 23.9118,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 52.857,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 45.5656,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 29.681,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 44.8126,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 58.7219,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 25.9793,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 55.9648,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 59.9356,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 37.1722,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 59.8878,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 20,
+        "structural_robustness_score": 63.9567,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 30.3108,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 39.7601,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 51.4917,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 32.6416,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 52.9435,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 40,
+        "structural_robustness_score": 52.6435,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 25.8494,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 45.8944,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 47.9134,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 31.5658,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 47.5234,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 60,
+        "structural_robustness_score": 55.5125,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 19.5268,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SV",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 50.9852,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-SC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 43.6931,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-CC",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 28.1923,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "FedFCA-TF",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 44.5435,
+        "trustthreshold": "0.9"
+    },
+    {
+        "dataset": "T10I4D100K",
+        "partition": "Non-IID",
+        "baseline": "BR-FedFCA",
+        "byzantine_ratio": 80,
+        "structural_robustness_score": 54.3418,
+        "trustthreshold": "0.9"
     }
 ]
