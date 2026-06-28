@@ -4,7 +4,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 72.54112,
+        "attack_success_rate": 71.321782,
         "trustthreshold": "0.5"
     },
     {
@@ -12,7 +12,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 69.230769,
+        "attack_success_rate": 68.3516,
         "trustthreshold": "0.7"
     },
     {
@@ -20,7 +20,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 65.699102,
+        "attack_success_rate": 64.06284,
         "trustthreshold": "0.9"
     },
     {
@@ -28,7 +28,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 52.950989,
+        "attack_success_rate": 53.793557,
         "trustthreshold": "0.5"
     },
     {
@@ -36,7 +36,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 50.433011,
+        "attack_success_rate": 50.909518,
         "trustthreshold": "0.7"
     },
     {
@@ -44,7 +44,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 46.358596,
+        "attack_success_rate": 46.463079,
         "trustthreshold": "0.9"
     },
     {
@@ -52,7 +52,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 43.923487,
+        "attack_success_rate": 44.61829,
         "trustthreshold": "0.5"
     },
     {
@@ -60,7 +60,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 39.887927,
+        "attack_success_rate": 42.342661,
         "trustthreshold": "0.7"
     },
     {
@@ -68,7 +68,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 36.528454,
+        "attack_success_rate": 38.874567,
         "trustthreshold": "0.9"
     },
     {
@@ -76,7 +76,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 73.046154,
+        "attack_success_rate": 70.318821,
         "trustthreshold": "0.5"
     },
     {
@@ -84,7 +84,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 69.052867,
+        "attack_success_rate": 66.566643,
         "trustthreshold": "0.7"
     },
     {
@@ -92,7 +92,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 66.023558,
+        "attack_success_rate": 61.778178,
         "trustthreshold": "0.9"
     },
     {
@@ -100,7 +100,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 42.81883,
+        "attack_success_rate": 42.362225,
         "trustthreshold": "0.5"
     },
     {
@@ -108,7 +108,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 39.887927,
+        "attack_success_rate": 39.624844,
         "trustthreshold": "0.7"
     },
     {
@@ -116,7 +116,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 37.242834,
+        "attack_success_rate": 36.423491,
         "trustthreshold": "0.9"
     },
     {
@@ -124,7 +124,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 54.446881,
+        "attack_success_rate": 36.754403,
         "trustthreshold": "0.5"
     },
     {
@@ -132,7 +132,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 50.433011,
+        "attack_success_rate": 34.377113,
         "trustthreshold": "0.7"
     },
     {
@@ -140,7 +140,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 46.410493,
+        "attack_success_rate": 29.987369,
         "trustthreshold": "0.9"
     },
     {
@@ -148,7 +148,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 75.796266,
+        "attack_success_rate": 76.237936,
         "trustthreshold": "0.5"
     },
     {
@@ -156,7 +156,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 72.627551,
+        "attack_success_rate": 72.828066,
         "trustthreshold": "0.7"
     },
     {
@@ -164,7 +164,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 68.806763,
+        "attack_success_rate": 68.744521,
         "trustthreshold": "0.9"
     },
     {
@@ -172,7 +172,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 54.185843,
+        "attack_success_rate": 58.969221,
         "trustthreshold": "0.5"
     },
     {
@@ -180,7 +180,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 49.821429,
+        "attack_success_rate": 55.483217,
         "trustthreshold": "0.7"
     },
     {
@@ -188,7 +188,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 45.659909,
+        "attack_success_rate": 51.390029,
         "trustthreshold": "0.9"
     },
     {
@@ -196,7 +196,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 41.261136,
+        "attack_success_rate": 49.51285,
         "trustthreshold": "0.5"
     },
     {
@@ -204,7 +204,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 37.295918,
+        "attack_success_rate": 46.272772,
         "trustthreshold": "0.7"
     },
     {
@@ -212,7 +212,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 33.540483,
+        "attack_success_rate": 42.048314,
         "trustthreshold": "0.9"
     },
     {
@@ -220,7 +220,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 67.932181,
+        "attack_success_rate": 74.772515,
         "trustthreshold": "0.5"
     },
     {
@@ -228,7 +228,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 64.668367,
+        "attack_success_rate": 70.456752,
         "trustthreshold": "0.7"
     },
     {
@@ -236,7 +236,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 60.027419,
+        "attack_success_rate": 65.266711,
         "trustthreshold": "0.9"
     },
     {
@@ -244,7 +244,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 39.959781,
+        "attack_success_rate": 44.896936,
         "trustthreshold": "0.5"
     },
     {
@@ -252,7 +252,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 37.295918,
+        "attack_success_rate": 42.520869,
         "trustthreshold": "0.7"
     },
     {
@@ -260,7 +260,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 34.0817,
+        "attack_success_rate": 39.204115,
         "trustthreshold": "0.9"
     },
     {
@@ -268,7 +268,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 55.415414,
+        "attack_success_rate": 37.888485,
         "trustthreshold": "0.5"
     },
     {
@@ -276,7 +276,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 49.821429,
+        "attack_success_rate": 35.289284,
         "trustthreshold": "0.7"
     },
     {
@@ -284,7 +284,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 43.675137,
+        "attack_success_rate": 30.403023,
         "trustthreshold": "0.9"
     },
     {
@@ -292,7 +292,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 71.114799,
+        "attack_success_rate": 81.486529,
         "trustthreshold": "0.5"
     },
     {
@@ -300,7 +300,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 68.834918,
+        "attack_success_rate": 77.938315,
         "trustthreshold": "0.7"
     },
     {
@@ -308,7 +308,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 65.36672,
+        "attack_success_rate": 73.324674,
         "trustthreshold": "0.9"
     },
     {
@@ -316,7 +316,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 61.434768,
+        "attack_success_rate": 63.489906,
         "trustthreshold": "0.5"
     },
     {
@@ -324,7 +324,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 56.555707,
+        "attack_success_rate": 60.445003,
         "trustthreshold": "0.7"
     },
     {
@@ -332,7 +332,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 52.56711,
+        "attack_success_rate": 56.463863,
         "trustthreshold": "0.9"
     },
     {
@@ -340,7 +340,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 51.621363,
+        "attack_success_rate": 53.420218,
         "trustthreshold": "0.5"
     },
     {
@@ -348,7 +348,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 47.146591,
+        "attack_success_rate": 50.356354,
         "trustthreshold": "0.7"
     },
     {
@@ -356,7 +356,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 43.888899,
+        "attack_success_rate": 46.70314,
         "trustthreshold": "0.9"
     },
     {
@@ -364,7 +364,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 87.306874,
+        "attack_success_rate": 80.14066,
         "trustthreshold": "0.5"
     },
     {
@@ -372,7 +372,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 81.878397,
+        "attack_success_rate": 76.218863,
         "trustthreshold": "0.7"
     },
     {
@@ -380,7 +380,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 77.860182,
+        "attack_success_rate": 71.074298,
         "trustthreshold": "0.9"
     },
     {
@@ -388,7 +388,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 54.434178,
+        "attack_success_rate": 49.165217,
         "trustthreshold": "0.5"
     },
     {
@@ -396,7 +396,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 50.713315,
+        "attack_success_rate": 46.555072,
         "trustthreshold": "0.7"
     },
     {
@@ -404,7 +404,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 45.554776,
+        "attack_success_rate": 42.550372,
         "trustthreshold": "0.9"
     },
     {
@@ -412,7 +412,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 57.449699,
+        "attack_success_rate": 40.367165,
         "trustthreshold": "0.5"
     },
     {
@@ -420,7 +420,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 52.399881,
+        "attack_success_rate": 38.187446,
         "trustthreshold": "0.7"
     },
     {
@@ -428,7 +428,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 47.974955,
+        "attack_success_rate": 33.408398,
         "trustthreshold": "0.9"
     },
     {
@@ -436,7 +436,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 75.910252,
+        "attack_success_rate": 85.133559,
         "trustthreshold": "0.5"
     },
     {
@@ -444,7 +444,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 71.455793,
+        "attack_success_rate": 81.070483,
         "trustthreshold": "0.7"
     },
     {
@@ -452,7 +452,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 67.47161,
+        "attack_success_rate": 76.174536,
         "trustthreshold": "0.9"
     },
     {
@@ -460,7 +460,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 51.64298,
+        "attack_success_rate": 67.33658,
         "trustthreshold": "0.5"
     },
     {
@@ -468,7 +468,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 47.560976,
+        "attack_success_rate": 63.258988,
         "trustthreshold": "0.7"
     },
     {
@@ -476,7 +476,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 43.710675,
+        "attack_success_rate": 58.808105,
         "trustthreshold": "0.9"
     },
     {
@@ -484,7 +484,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 46.537991,
+        "attack_success_rate": 57.471655,
         "trustthreshold": "0.5"
     },
     {
@@ -492,7 +492,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 42.721037,
+        "attack_success_rate": 54.08244,
         "trustthreshold": "0.7"
     },
     {
@@ -500,7 +500,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 37.825683,
+        "attack_success_rate": 49.82015,
         "trustthreshold": "0.9"
     },
     {
@@ -508,7 +508,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 75.913508,
+        "attack_success_rate": 86.182376,
         "trustthreshold": "0.5"
     },
     {
@@ -516,7 +516,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 71.265244,
+        "attack_success_rate": 81.611225,
         "trustthreshold": "0.7"
     },
     {
@@ -524,7 +524,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 66.216104,
+        "attack_success_rate": 76.393843,
         "trustthreshold": "0.9"
     },
     {
@@ -532,7 +532,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 48.103529,
+        "attack_success_rate": 52.18709,
         "trustthreshold": "0.5"
     },
     {
@@ -540,7 +540,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 42.721037,
+        "attack_success_rate": 48.907579,
         "trustthreshold": "0.7"
     },
     {
@@ -548,7 +548,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 36.82189,
+        "attack_success_rate": 45.32248,
         "trustthreshold": "0.9"
     },
     {
@@ -556,7 +556,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 52.203894,
+        "attack_success_rate": 44.181913,
         "trustthreshold": "0.5"
     },
     {
@@ -564,7 +564,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 47.560976,
+        "attack_success_rate": 41.338182,
         "trustthreshold": "0.7"
     },
     {
@@ -572,7 +572,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 42.312996,
+        "attack_success_rate": 35.508052,
         "trustthreshold": "0.9"
     },
     {
@@ -580,7 +580,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 73.265693,
+        "attack_success_rate": 74.811981,
         "trustthreshold": "0.5"
     },
     {
@@ -588,7 +588,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 70.393058,
+        "attack_success_rate": 70.988734,
         "trustthreshold": "0.7"
     },
     {
@@ -596,7 +596,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 67.248585,
+        "attack_success_rate": 66.367065,
         "trustthreshold": "0.9"
     },
     {
@@ -604,7 +604,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 74.25365,
+        "attack_success_rate": 59.283599,
         "trustthreshold": "0.5"
     },
     {
@@ -612,7 +612,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 70.597243,
+        "attack_success_rate": 55.811213,
         "trustthreshold": "0.7"
     },
     {
@@ -620,7 +620,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 67.023253,
+        "attack_success_rate": 52.188462,
         "trustthreshold": "0.9"
     },
     {
@@ -628,7 +628,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 60.028279,
+        "attack_success_rate": 51.278344,
         "trustthreshold": "0.5"
     },
     {
@@ -636,7 +636,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 56.457376,
+        "attack_success_rate": 48.405768,
         "trustthreshold": "0.7"
     },
     {
@@ -644,7 +644,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 51.929355,
+        "attack_success_rate": 45.144919,
         "trustthreshold": "0.9"
     },
     {
@@ -652,7 +652,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 84.558179,
+        "attack_success_rate": 73.266069,
         "trustthreshold": "0.5"
     },
     {
@@ -660,7 +660,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 81.01072,
+        "attack_success_rate": 69.462966,
         "trustthreshold": "0.7"
     },
     {
@@ -668,7 +668,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 76.776105,
+        "attack_success_rate": 64.992967,
         "trustthreshold": "0.9"
     },
     {
@@ -676,7 +676,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 64.26792,
+        "attack_success_rate": 47.03142,
         "trustthreshold": "0.5"
     },
     {
@@ -684,7 +684,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 60.790383,
+        "attack_success_rate": 44.638058,
         "trustthreshold": "0.7"
     },
     {
@@ -692,7 +692,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 55.592334,
+        "attack_success_rate": 41.438271,
         "trustthreshold": "0.9"
     },
     {
@@ -700,7 +700,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 76.178211,
+        "attack_success_rate": 40.721572,
         "trustthreshold": "0.5"
     },
     {
@@ -708,7 +708,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 70.597243,
+        "attack_success_rate": 37.966856,
         "trustthreshold": "0.7"
     },
     {
@@ -716,7 +716,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 65.240117,
+        "attack_success_rate": 33.850925,
         "trustthreshold": "0.9"
     },
     {
@@ -724,7 +724,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 74.729449,
+        "attack_success_rate": 80.819498,
         "trustthreshold": "0.5"
     },
     {
@@ -732,7 +732,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 72.391858,
+        "attack_success_rate": 76.960876,
         "trustthreshold": "0.7"
     },
     {
@@ -740,7 +740,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 68.120568,
+        "attack_success_rate": 72.703506,
         "trustthreshold": "0.9"
     },
     {
@@ -748,7 +748,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 58.015583,
+        "attack_success_rate": 64.263988,
         "trustthreshold": "0.5"
     },
     {
@@ -756,7 +756,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 54.866962,
+        "attack_success_rate": 60.677813,
         "trustthreshold": "0.7"
     },
     {
@@ -764,7 +764,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 49.842728,
+        "attack_success_rate": 56.107071,
         "trustthreshold": "0.9"
     },
     {
@@ -772,7 +772,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 42.872281,
+        "attack_success_rate": 54.075675,
         "trustthreshold": "0.5"
     },
     {
@@ -780,7 +780,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 40.305344,
+        "attack_success_rate": 51.048339,
         "trustthreshold": "0.7"
     },
     {
@@ -788,7 +788,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 36.801397,
+        "attack_success_rate": 46.851977,
         "trustthreshold": "0.9"
     },
     {
@@ -796,7 +796,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 71.699273,
+        "attack_success_rate": 79.314374,
         "trustthreshold": "0.5"
     },
     {
@@ -804,7 +804,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 67.913486,
+        "attack_success_rate": 74.87469,
         "trustthreshold": "0.7"
     },
     {
@@ -812,7 +812,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 63.221599,
+        "attack_success_rate": 70.262317,
         "trustthreshold": "0.9"
     },
     {
@@ -820,7 +820,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 44.536139,
+        "attack_success_rate": 51.152818,
         "trustthreshold": "0.5"
     },
     {
@@ -828,7 +828,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 40.305344,
+        "attack_success_rate": 48.51119,
         "trustthreshold": "0.7"
     },
     {
@@ -836,7 +836,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 36.953533,
+        "attack_success_rate": 45.280357,
         "trustthreshold": "0.9"
     },
     {
@@ -844,7 +844,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 53.825962,
+        "attack_success_rate": 42.625196,
         "trustthreshold": "0.5"
     },
     {
@@ -852,7 +852,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 49.131062,
+        "attack_success_rate": 40.155065,
         "trustthreshold": "0.7"
     },
     {
@@ -860,7 +860,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 42.867462,
+        "attack_success_rate": 35.569814,
         "trustthreshold": "0.9"
     },
     {
@@ -868,7 +868,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 85.93726,
+        "attack_success_rate": 86.185289,
         "trustthreshold": "0.5"
     },
     {
@@ -876,7 +876,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 81.665524,
+        "attack_success_rate": 81.913606,
         "trustthreshold": "0.7"
     },
     {
@@ -884,7 +884,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 77.306611,
+        "attack_success_rate": 77.289308,
         "trustthreshold": "0.9"
     },
     {
@@ -892,7 +892,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 48.300781,
+        "attack_success_rate": 68.961726,
         "trustthreshold": "0.5"
     },
     {
@@ -900,7 +900,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 43.522961,
+        "attack_success_rate": 65.339543,
         "trustthreshold": "0.7"
     },
     {
@@ -908,7 +908,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 40.493627,
+        "attack_success_rate": 61.260026,
         "trustthreshold": "0.9"
     },
     {
@@ -916,7 +916,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 52.228463,
+        "attack_success_rate": 58.74877,
         "trustthreshold": "0.5"
     },
     {
@@ -924,7 +924,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 46.932831,
+        "attack_success_rate": 55.485221,
         "trustthreshold": "0.7"
     },
     {
@@ -932,7 +932,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 41.280758,
+        "attack_success_rate": 51.107177,
         "trustthreshold": "0.9"
     },
     {
@@ -940,7 +940,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 70.64512,
+        "attack_success_rate": 84.982251,
         "trustthreshold": "0.5"
     },
     {
@@ -948,7 +948,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 65.267306,
+        "attack_success_rate": 80.30305,
         "trustthreshold": "0.7"
     },
     {
@@ -956,7 +956,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 60.224572,
+        "attack_success_rate": 75.164547,
         "trustthreshold": "0.9"
     },
     {
@@ -964,7 +964,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 52.253323,
+        "attack_success_rate": 55.163767,
         "trustthreshold": "0.5"
     },
     {
@@ -972,7 +972,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 46.932831,
+        "attack_success_rate": 51.817529,
         "trustthreshold": "0.7"
     },
     {
@@ -980,7 +980,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 42.768665,
+        "attack_success_rate": 47.607941,
         "trustthreshold": "0.9"
     },
     {
@@ -988,7 +988,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 49.634674,
+        "attack_success_rate": 45.952855,
         "trustthreshold": "0.5"
     },
     {
@@ -996,7 +996,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 43.522961,
+        "attack_success_rate": 43.177012,
         "trustthreshold": "0.7"
     },
     {
@@ -1004,7 +1004,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 37.40138,
+        "attack_success_rate": 38.289394,
         "trustthreshold": "0.9"
     },
     {
@@ -1012,7 +1012,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 86.40033,
+        "attack_success_rate": 89.596026,
         "trustthreshold": "0.5"
     },
     {
@@ -1020,7 +1020,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 82.498709,
+        "attack_success_rate": 85.116848,
         "trustthreshold": "0.7"
     },
     {
@@ -1028,7 +1028,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 78.896486,
+        "attack_success_rate": 80.800178,
         "trustthreshold": "0.9"
     },
     {
@@ -1036,7 +1036,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 47.593246,
+        "attack_success_rate": 72.401571,
         "trustthreshold": "0.5"
     },
     {
@@ -1044,7 +1044,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 43.817759,
+        "attack_success_rate": 68.42725,
         "trustthreshold": "0.7"
     },
     {
@@ -1052,7 +1052,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 39.971894,
+        "attack_success_rate": 63.617166,
         "trustthreshold": "0.9"
     },
     {
@@ -1060,7 +1060,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 61.302075,
+        "attack_success_rate": 61.980201,
         "trustthreshold": "0.5"
     },
     {
@@ -1068,7 +1068,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 57.240578,
+        "attack_success_rate": 58.335203,
         "trustthreshold": "0.7"
     },
     {
@@ -1076,7 +1076,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 51.18789,
+        "attack_success_rate": 54.445847,
         "trustthreshold": "0.9"
     },
     {
@@ -1084,7 +1084,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 79.876053,
+        "attack_success_rate": 89.130078,
         "trustthreshold": "0.5"
     },
     {
@@ -1092,7 +1092,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 74.741869,
+        "attack_success_rate": 84.550707,
         "trustthreshold": "0.7"
     },
     {
@@ -1100,7 +1100,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 68.398275,
+        "attack_success_rate": 78.941696,
         "trustthreshold": "0.9"
     },
     {
@@ -1108,7 +1108,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 62.893104,
+        "attack_success_rate": 59.144553,
         "trustthreshold": "0.5"
     },
     {
@@ -1116,7 +1116,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 57.240578,
+        "attack_success_rate": 55.595842,
         "trustthreshold": "0.7"
     },
     {
@@ -1124,7 +1124,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 51.751216,
+        "attack_success_rate": 51.642165,
         "trustthreshold": "0.9"
     },
     {
@@ -1132,7 +1132,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 50.035623,
+        "attack_success_rate": 47.952252,
         "trustthreshold": "0.5"
     },
     {
@@ -1140,7 +1140,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 43.817759,
+        "attack_success_rate": 45.164034,
         "trustthreshold": "0.7"
     },
     {
@@ -1148,7 +1148,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 39.170534,
+        "attack_success_rate": 39.536144,
         "trustthreshold": "0.9"
     },
     {
@@ -1156,7 +1156,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 51.586712,
+        "attack_success_rate": 51.442008,
         "trustthreshold": "0.5"
     },
     {
@@ -1164,7 +1164,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 49.54918,
+        "attack_success_rate": 48.387102,
         "trustthreshold": "0.7"
     },
     {
@@ -1172,7 +1172,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 48.088085,
+        "attack_success_rate": 44.002605,
         "trustthreshold": "0.9"
     },
     {
@@ -1180,7 +1180,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 54.317944,
+        "attack_success_rate": 46.853553,
         "trustthreshold": "0.5"
     },
     {
@@ -1188,7 +1188,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 50.45082,
+        "attack_success_rate": 44.178692,
         "trustthreshold": "0.7"
     },
     {
@@ -1196,7 +1196,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 46.111033,
+        "attack_success_rate": 40.478592,
         "trustthreshold": "0.9"
     },
     {
@@ -1204,7 +1204,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 38.779574,
+        "attack_success_rate": 40.511084,
         "trustthreshold": "0.5"
     },
     {
@@ -1212,7 +1212,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 36.4,
+        "attack_success_rate": 37.617341,
         "trustthreshold": "0.7"
     },
     {
@@ -1220,7 +1220,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 33.233146,
+        "attack_success_rate": 34.013549,
         "trustthreshold": "0.9"
     },
     {
@@ -1228,7 +1228,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 45.671002,
+        "attack_success_rate": 48.692055,
         "trustthreshold": "0.5"
     },
     {
@@ -1236,7 +1236,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 42.6,
+        "attack_success_rate": 44.757603,
         "trustthreshold": "0.7"
     },
     {
@@ -1244,7 +1244,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 40.057189,
+        "attack_success_rate": 40.031505,
         "trustthreshold": "0.9"
     },
     {
@@ -1252,7 +1252,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 38.160564,
+        "attack_success_rate": 36.9318,
         "trustthreshold": "0.5"
     },
     {
@@ -1260,7 +1260,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 34.8,
+        "attack_success_rate": 34.322559,
         "trustthreshold": "0.7"
     },
     {
@@ -1268,7 +1268,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 31.846987,
+        "attack_success_rate": 30.551797,
         "trustthreshold": "0.9"
     },
     {
@@ -1276,7 +1276,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 54.258748,
+        "attack_success_rate": 30.736144,
         "trustthreshold": "0.5"
     },
     {
@@ -1284,7 +1284,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 50.45082,
+        "attack_success_rate": 28.728434,
         "trustthreshold": "0.7"
     },
     {
@@ -1292,7 +1292,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 46.498157,
+        "attack_success_rate": 24.153844,
         "trustthreshold": "0.9"
     },
     {
@@ -1300,7 +1300,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 42.448565,
+        "attack_success_rate": 56.628198,
         "trustthreshold": "0.5"
     },
     {
@@ -1308,7 +1308,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 40.106952,
+        "attack_success_rate": 53.398926,
         "trustthreshold": "0.7"
     },
     {
@@ -1316,7 +1316,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 36.999108,
+        "attack_success_rate": 49.348524,
         "trustthreshold": "0.9"
     },
     {
@@ -1324,7 +1324,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 64.278884,
+        "attack_success_rate": 51.110975,
         "trustthreshold": "0.5"
     },
     {
@@ -1332,7 +1332,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 59.893048,
+        "attack_success_rate": 47.800326,
         "trustthreshold": "0.7"
     },
     {
@@ -1340,7 +1340,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 55.584753,
+        "attack_success_rate": 43.931651,
         "trustthreshold": "0.9"
     },
     {
@@ -1348,7 +1348,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 44.032392,
+        "attack_success_rate": 44.091646,
         "trustthreshold": "0.5"
     },
     {
@@ -1356,7 +1356,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 39.7,
+        "attack_success_rate": 40.835302,
         "trustthreshold": "0.7"
     },
     {
@@ -1364,7 +1364,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 35.102116,
+        "attack_success_rate": 36.720952,
         "trustthreshold": "0.9"
     },
     {
@@ -1372,7 +1372,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 47.260726,
+        "attack_success_rate": 54.729595,
         "trustthreshold": "0.5"
     },
     {
@@ -1380,7 +1380,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 44.2,
+        "attack_success_rate": 50.763697,
         "trustthreshold": "0.7"
     },
     {
@@ -1388,7 +1388,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 39.876709,
+        "attack_success_rate": 45.464305,
         "trustthreshold": "0.9"
     },
     {
@@ -1396,7 +1396,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 41.756189,
+        "attack_success_rate": 41.222089,
         "trustthreshold": "0.5"
     },
     {
@@ -1404,7 +1404,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 37.9,
+        "attack_success_rate": 38.448828,
         "trustthreshold": "0.7"
     },
     {
@@ -1412,7 +1412,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 33.548798,
+        "attack_success_rate": 34.865315,
         "trustthreshold": "0.9"
     },
     {
@@ -1420,7 +1420,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 64.971504,
+        "attack_success_rate": 32.947199,
         "trustthreshold": "0.5"
     },
     {
@@ -1428,7 +1428,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 59.893048,
+        "attack_success_rate": 30.229757,
         "trustthreshold": "0.7"
     },
     {
@@ -1436,7 +1436,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 55.095458,
+        "attack_success_rate": 25.696806,
         "trustthreshold": "0.9"
     },
     {
@@ -1444,7 +1444,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 42.069858,
+        "attack_success_rate": 62.471871,
         "trustthreshold": "0.5"
     },
     {
@@ -1452,7 +1452,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 40.155546,
+        "attack_success_rate": 58.471289,
         "trustthreshold": "0.7"
     },
     {
@@ -1460,7 +1460,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 37.033794,
+        "attack_success_rate": 54.095281,
         "trustthreshold": "0.9"
     },
     {
@@ -1468,7 +1468,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 64.781033,
+        "attack_success_rate": 57.195061,
         "trustthreshold": "0.5"
     },
     {
@@ -1476,7 +1476,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 59.844454,
+        "attack_success_rate": 53.473532,
         "trustthreshold": "0.7"
     },
     {
@@ -1484,7 +1484,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 56.203986,
+        "attack_success_rate": 49.359507,
         "trustthreshold": "0.9"
     },
     {
@@ -1492,7 +1492,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 47.985257,
+        "attack_success_rate": 48.061013,
         "trustthreshold": "0.5"
     },
     {
@@ -1500,7 +1500,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 43.5,
+        "attack_success_rate": 44.513566,
         "trustthreshold": "0.7"
     },
     {
@@ -1508,7 +1508,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 38.524759,
+        "attack_success_rate": 40.284962,
         "trustthreshold": "0.9"
     },
     {
@@ -1516,7 +1516,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 50.899492,
+        "attack_success_rate": 60.393231,
         "trustthreshold": "0.5"
     },
     {
@@ -1524,7 +1524,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 47.1,
+        "attack_success_rate": 56.418368,
         "trustthreshold": "0.7"
     },
     {
@@ -1532,7 +1532,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 43.647996,
+        "attack_success_rate": 51.577788,
         "trustthreshold": "0.9"
     },
     {
@@ -1540,7 +1540,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 44.702433,
+        "attack_success_rate": 44.269376,
         "trustthreshold": "0.5"
     },
     {
@@ -1548,7 +1548,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 41.6,
+        "attack_success_rate": 41.519436,
         "trustthreshold": "0.7"
     },
     {
@@ -1556,7 +1556,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 37.94457,
+        "attack_success_rate": 37.665963,
         "trustthreshold": "0.9"
     },
     {
@@ -1564,7 +1564,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 65.017339,
+        "attack_success_rate": 34.362687,
         "trustthreshold": "0.5"
     },
     {
@@ -1572,7 +1572,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 59.844454,
+        "attack_success_rate": 32.216847,
         "trustthreshold": "0.7"
     },
     {
@@ -1580,7 +1580,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 54.905508,
+        "attack_success_rate": 27.30557,
         "trustthreshold": "0.9"
     },
     {
@@ -1588,7 +1588,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 53.728563,
+        "attack_success_rate": 67.156945,
         "trustthreshold": "0.5"
     },
     {
@@ -1596,7 +1596,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 50.041017,
+        "attack_success_rate": 62.926276,
         "trustthreshold": "0.7"
     },
     {
@@ -1604,7 +1604,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 46.775753,
+        "attack_success_rate": 57.814162,
         "trustthreshold": "0.9"
     },
     {
@@ -1612,7 +1612,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 53.271215,
+        "attack_success_rate": 60.337699,
         "trustthreshold": "0.5"
     },
     {
@@ -1620,7 +1620,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 49.958983,
+        "attack_success_rate": 56.498647,
         "trustthreshold": "0.7"
     },
     {
@@ -1628,7 +1628,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 45.751888,
+        "attack_success_rate": 51.817739,
         "trustthreshold": "0.9"
     },
     {
@@ -1636,7 +1636,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 50.678874,
+        "attack_success_rate": 51.165384,
         "trustthreshold": "0.5"
     },
     {
@@ -1644,7 +1644,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 46.8,
+        "attack_success_rate": 48.152726,
         "trustthreshold": "0.7"
     },
     {
@@ -1652,7 +1652,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 42.765931,
+        "attack_success_rate": 43.786625,
         "trustthreshold": "0.9"
     },
     {
@@ -1660,7 +1660,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 53.751466,
+        "attack_success_rate": 64.792786,
         "trustthreshold": "0.5"
     },
     {
@@ -1668,7 +1668,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 50.9,
+        "attack_success_rate": 59.759878,
         "trustthreshold": "0.7"
     },
     {
@@ -1676,7 +1676,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 46.234637,
+        "attack_success_rate": 54.429798,
         "trustthreshold": "0.9"
     },
     {
@@ -1684,7 +1684,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 48.234261,
+        "attack_success_rate": 47.318176,
         "trustthreshold": "0.5"
     },
     {
@@ -1692,7 +1692,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 44.3,
+        "attack_success_rate": 44.206898,
         "trustthreshold": "0.7"
     },
     {
@@ -1700,7 +1700,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 40.210237,
+        "attack_success_rate": 40.04065,
         "trustthreshold": "0.9"
     },
     {
@@ -1708,7 +1708,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 55.665758,
+        "attack_success_rate": 37.728041,
         "trustthreshold": "0.5"
     },
     {
@@ -1716,7 +1716,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 49.958983,
+        "attack_success_rate": 34.95364,
         "trustthreshold": "0.7"
     },
     {
@@ -1724,7 +1724,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 45.107459,
+        "attack_success_rate": 29.385579,
         "trustthreshold": "0.9"
     },
     {
@@ -1732,7 +1732,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 63.376085,
+        "attack_success_rate": 62.107964,
         "trustthreshold": "0.5"
     },
     {
@@ -1740,7 +1740,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 60.076046,
+        "attack_success_rate": 58.141733,
         "trustthreshold": "0.7"
     },
     {
@@ -1748,7 +1748,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 57.248448,
+        "attack_success_rate": 54.327888,
         "trustthreshold": "0.9"
     },
     {
@@ -1756,7 +1756,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 44.034364,
+        "attack_success_rate": 50.966986,
         "trustthreshold": "0.5"
     },
     {
@@ -1764,7 +1764,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 39.923954,
+        "attack_success_rate": 47.905686,
         "trustthreshold": "0.7"
     },
     {
@@ -1772,7 +1772,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 35.999085,
+        "attack_success_rate": 44.120125,
         "trustthreshold": "0.9"
     },
     {
@@ -1780,7 +1780,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 40.946182,
+        "attack_success_rate": 44.796781,
         "trustthreshold": "0.5"
     },
     {
@@ -1788,7 +1788,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 38.6,
+        "attack_success_rate": 42.273394,
         "trustthreshold": "0.7"
     },
     {
@@ -1796,7 +1796,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 35.794992,
+        "attack_success_rate": 38.445495,
         "trustthreshold": "0.9"
     },
     {
@@ -1804,7 +1804,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 48.162303,
+        "attack_success_rate": 53.972344,
         "trustthreshold": "0.5"
     },
     {
@@ -1812,7 +1812,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 44.1,
+        "attack_success_rate": 49.981952,
         "trustthreshold": "0.7"
     },
     {
@@ -1820,7 +1820,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 40.722775,
+        "attack_success_rate": 45.202345,
         "trustthreshold": "0.9"
     },
     {
@@ -1828,7 +1828,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 41.673555,
+        "attack_success_rate": 42.379391,
         "trustthreshold": "0.5"
     },
     {
@@ -1836,7 +1836,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 37.6,
+        "attack_success_rate": 39.774907,
         "trustthreshold": "0.7"
     },
     {
@@ -1844,7 +1844,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 33.509151,
+        "attack_success_rate": 36.766156,
         "trustthreshold": "0.9"
     },
     {
@@ -1852,7 +1852,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 45.209546,
+        "attack_success_rate": 35.4794,
         "trustthreshold": "0.5"
     },
     {
@@ -1860,7 +1860,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 39.923954,
+        "attack_success_rate": 33.115437,
         "trustthreshold": "0.7"
     },
     {
@@ -1868,7 +1868,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 35.651487,
+        "attack_success_rate": 28.390319,
         "trustthreshold": "0.9"
     },
     {
@@ -1876,7 +1876,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 59.5812,
+        "attack_success_rate": 66.232331,
         "trustthreshold": "0.5"
     },
     {
@@ -1884,7 +1884,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 57.058451,
+        "attack_success_rate": 62.078158,
         "trustthreshold": "0.7"
     },
     {
@@ -1892,7 +1892,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 53.085459,
+        "attack_success_rate": 57.55697,
         "trustthreshold": "0.9"
     },
     {
@@ -1900,7 +1900,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 46.028528,
+        "attack_success_rate": 56.224691,
         "trustthreshold": "0.5"
     },
     {
@@ -1908,7 +1908,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 42.941549,
+        "attack_success_rate": 53.149259,
         "trustthreshold": "0.7"
     },
     {
@@ -1916,7 +1916,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 39.217129,
+        "attack_success_rate": 48.880563,
         "trustthreshold": "0.9"
     },
     {
@@ -1924,7 +1924,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 46.61409,
+        "attack_success_rate": 48.787048,
         "trustthreshold": "0.5"
     },
     {
@@ -1932,7 +1932,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 41.9,
+        "attack_success_rate": 45.402095,
         "trustthreshold": "0.7"
     },
     {
@@ -1940,7 +1940,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 38.446082,
+        "attack_success_rate": 41.483276,
         "trustthreshold": "0.9"
     },
     {
@@ -1948,7 +1948,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 48.253898,
+        "attack_success_rate": 60.318236,
         "trustthreshold": "0.5"
     },
     {
@@ -1956,7 +1956,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 45.7,
+        "attack_success_rate": 55.895439,
         "trustthreshold": "0.7"
     },
     {
@@ -1964,7 +1964,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 42.650099,
+        "attack_success_rate": 50.750629,
         "trustthreshold": "0.9"
     },
     {
@@ -1972,7 +1972,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 45.551965,
+        "attack_success_rate": 45.736026,
         "trustthreshold": "0.5"
     },
     {
@@ -1980,7 +1980,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 40.7,
+        "attack_success_rate": 43.094235,
         "trustthreshold": "0.7"
     },
     {
@@ -1988,7 +1988,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 36.067945,
+        "attack_success_rate": 39.468959,
         "trustthreshold": "0.9"
     },
     {
@@ -1996,7 +1996,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 48.480172,
+        "attack_success_rate": 38.121004,
         "trustthreshold": "0.5"
     },
     {
@@ -2004,7 +2004,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 42.941549,
+        "attack_success_rate": 35.17397,
         "trustthreshold": "0.7"
     },
     {
@@ -2012,7 +2012,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 37.04103,
+        "attack_success_rate": 30.734926,
         "trustthreshold": "0.9"
     },
     {
@@ -2020,7 +2020,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 54.174154,
+        "attack_success_rate": 71.207744,
         "trustthreshold": "0.5"
     },
     {
@@ -2028,7 +2028,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 51.815642,
+        "attack_success_rate": 66.848057,
         "trustthreshold": "0.7"
     },
     {
@@ -2036,7 +2036,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 48.163061,
+        "attack_success_rate": 62.654524,
         "trustthreshold": "0.9"
     },
     {
@@ -2044,7 +2044,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 52.105605,
+        "attack_success_rate": 61.236113,
         "trustthreshold": "0.5"
     },
     {
@@ -2052,7 +2052,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 48.184358,
+        "attack_success_rate": 57.133817,
         "trustthreshold": "0.7"
     },
     {
@@ -2060,7 +2060,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 43.289186,
+        "attack_success_rate": 52.771795,
         "trustthreshold": "0.9"
     },
     {
@@ -2068,7 +2068,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 49.906124,
+        "attack_success_rate": 54.177027,
         "trustthreshold": "0.5"
     },
     {
@@ -2076,7 +2076,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 45.7,
+        "attack_success_rate": 50.506419,
         "trustthreshold": "0.7"
     },
     {
@@ -2084,7 +2084,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 40.952635,
+        "attack_success_rate": 46.435898,
         "trustthreshold": "0.9"
     },
     {
@@ -2092,7 +2092,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 51.734062,
+        "attack_success_rate": 66.395167,
         "trustthreshold": "0.5"
     },
     {
@@ -2100,7 +2100,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 48.6,
+        "attack_success_rate": 61.567965,
         "trustthreshold": "0.7"
     },
     {
@@ -2108,7 +2108,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 44.695896,
+        "attack_success_rate": 56.117337,
         "trustthreshold": "0.9"
     },
     {
@@ -2116,7 +2116,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 48.976155,
+        "attack_success_rate": 50.208915,
         "trustthreshold": "0.5"
     },
     {
@@ -2124,7 +2124,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 44.4,
+        "attack_success_rate": 46.721195,
         "trustthreshold": "0.7"
     },
     {
@@ -2132,7 +2132,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 40.156524,
+        "attack_success_rate": 43.38259,
         "trustthreshold": "0.9"
     },
     {
@@ -2140,7 +2140,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 54.288268,
+        "attack_success_rate": 39.747444,
         "trustthreshold": "0.5"
     },
     {
@@ -2148,7 +2148,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 48.184358,
+        "attack_success_rate": 37.116882,
         "trustthreshold": "0.7"
     },
     {
@@ -2156,7 +2156,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 42.447267,
+        "attack_success_rate": 31.992741,
         "trustthreshold": "0.9"
     },
     {
@@ -2164,7 +2164,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 49.375516,
+        "attack_success_rate": 76.377012,
         "trustthreshold": "0.5"
     },
     {
@@ -2172,7 +2172,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 47.304128,
+        "attack_success_rate": 72.303468,
         "trustthreshold": "0.7"
     },
     {
@@ -2180,7 +2180,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 45.024733,
+        "attack_success_rate": 67.358667,
         "trustthreshold": "0.9"
     },
     {
@@ -2188,7 +2188,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 57.537104,
+        "attack_success_rate": 64.348417,
         "trustthreshold": "0.5"
     },
     {
@@ -2196,7 +2196,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 52.695872,
+        "attack_success_rate": 60.153182,
         "trustthreshold": "0.7"
     },
     {
@@ -2204,7 +2204,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 48.239365,
+        "attack_success_rate": 55.690152,
         "trustthreshold": "0.9"
     },
     {
@@ -2212,7 +2212,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 54.343303,
+        "attack_success_rate": 56.639823,
         "trustthreshold": "0.5"
     },
     {
@@ -2220,7 +2220,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 49.0,
+        "attack_success_rate": 53.057056,
         "trustthreshold": "0.7"
     },
     {
@@ -2228,7 +2228,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 44.550262,
+        "attack_success_rate": 48.54732,
         "trustthreshold": "0.9"
     },
     {
@@ -2236,7 +2236,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 55.952136,
+        "attack_success_rate": 70.534905,
         "trustthreshold": "0.5"
     },
     {
@@ -2244,7 +2244,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 52.4,
+        "attack_success_rate": 65.569528,
         "trustthreshold": "0.7"
     },
     {
@@ -2252,7 +2252,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 48.844491,
+        "attack_success_rate": 60.248239,
         "trustthreshold": "0.9"
     },
     {
@@ -2260,7 +2260,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 51.964688,
+        "attack_success_rate": 52.526518,
         "trustthreshold": "0.5"
     },
     {
@@ -2268,7 +2268,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 47.1,
+        "attack_success_rate": 49.304931,
         "trustthreshold": "0.7"
     },
     {
@@ -2276,7 +2276,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 40.335292,
+        "attack_success_rate": 45.020363,
         "trustthreshold": "0.9"
     },
     {
@@ -2284,7 +2284,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 58.68194,
+        "attack_success_rate": 42.85656,
         "trustthreshold": "0.5"
     },
     {
@@ -2292,7 +2292,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 52.695872,
+        "attack_success_rate": 40.217025,
         "trustthreshold": "0.7"
     },
     {
@@ -2300,7 +2300,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 45.851762,
+        "attack_success_rate": 34.340951,
         "trustthreshold": "0.9"
     },
     {
@@ -2308,7 +2308,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 78.727532,
+        "attack_success_rate": 78.441756,
         "trustthreshold": "0.5"
     },
     {
@@ -2316,7 +2316,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 74.99068,
+        "attack_success_rate": 75.322215,
         "trustthreshold": "0.7"
     },
     {
@@ -2324,7 +2324,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 71.923734,
+        "attack_success_rate": 70.941952,
         "trustthreshold": "0.9"
     },
     {
@@ -2332,7 +2332,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 42.628994,
+        "attack_success_rate": 62.387868,
         "trustthreshold": "0.5"
     },
     {
@@ -2340,7 +2340,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 39.946564,
+        "attack_success_rate": 58.94375,
         "trustthreshold": "0.7"
     },
     {
@@ -2348,7 +2348,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 35.852364,
+        "attack_success_rate": 54.823112,
         "trustthreshold": "0.9"
     },
     {
@@ -2356,7 +2356,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 43.54542,
+        "attack_success_rate": 52.375139,
         "trustthreshold": "0.5"
     },
     {
@@ -2364,7 +2364,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 39.971418,
+        "attack_success_rate": 49.796922,
         "trustthreshold": "0.7"
     },
     {
@@ -2372,7 +2372,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 36.882821,
+        "attack_success_rate": 45.840976,
         "trustthreshold": "0.9"
     },
     {
@@ -2380,7 +2380,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 67.597851,
+        "attack_success_rate": 76.470749,
         "trustthreshold": "0.5"
     },
     {
@@ -2388,7 +2388,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 64.980738,
+        "attack_success_rate": 72.297269,
         "trustthreshold": "0.7"
     },
     {
@@ -2396,7 +2396,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 60.403313,
+        "attack_success_rate": 67.592049,
         "trustthreshold": "0.9"
     },
     {
@@ -2404,7 +2404,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 43.807248,
+        "attack_success_rate": 50.575676,
         "trustthreshold": "0.5"
     },
     {
@@ -2412,7 +2412,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 39.971418,
+        "attack_success_rate": 48.008911,
         "trustthreshold": "0.7"
     },
     {
@@ -2420,7 +2420,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 35.730068,
+        "attack_success_rate": 44.500557,
         "trustthreshold": "0.9"
     },
     {
@@ -2428,7 +2428,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 42.595529,
+        "attack_success_rate": 40.169538,
         "trustthreshold": "0.5"
     },
     {
@@ -2436,7 +2436,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 39.946564,
+        "attack_success_rate": 38.064442,
         "trustthreshold": "0.7"
     },
     {
@@ -2444,7 +2444,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 37.002111,
+        "attack_success_rate": 33.070406,
         "trustthreshold": "0.9"
     },
     {
@@ -2452,7 +2452,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 67.371709,
+        "attack_success_rate": 84.391573,
         "trustthreshold": "0.5"
     },
     {
@@ -2460,7 +2460,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 65.040273,
+        "attack_success_rate": 80.364446,
         "trustthreshold": "0.7"
     },
     {
@@ -2468,7 +2468,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 61.041361,
+        "attack_success_rate": 76.13592,
         "trustthreshold": "0.9"
     },
     {
@@ -2476,7 +2476,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 66.095819,
+        "attack_success_rate": 66.536477,
         "trustthreshold": "0.5"
     },
     {
@@ -2484,7 +2484,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 62.503098,
+        "attack_success_rate": 62.86644,
         "trustthreshold": "0.7"
     },
     {
@@ -2492,7 +2492,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 58.33979,
+        "attack_success_rate": 58.555748,
         "trustthreshold": "0.9"
     },
     {
@@ -2500,7 +2500,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 55.95709,
+        "attack_success_rate": 57.104223,
         "trustthreshold": "0.5"
     },
     {
@@ -2508,7 +2508,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 52.555762,
+        "attack_success_rate": 54.542388,
         "trustthreshold": "0.7"
     },
     {
@@ -2516,7 +2516,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 48.127604,
+        "attack_success_rate": 50.330282,
         "trustthreshold": "0.9"
     },
     {
@@ -2524,7 +2524,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 92.567717,
+        "attack_success_rate": 82.19262,
         "trustthreshold": "0.5"
     },
     {
@@ -2532,7 +2532,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 87.515489,
+        "attack_success_rate": 77.628416,
         "trustthreshold": "0.7"
     },
     {
@@ -2540,7 +2540,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 82.773164,
+        "attack_success_rate": 72.761611,
         "trustthreshold": "0.9"
     },
     {
@@ -2548,7 +2548,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 56.304493,
+        "attack_success_rate": 52.636851,
         "trustthreshold": "0.5"
     },
     {
@@ -2556,7 +2556,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 52.555762,
+        "attack_success_rate": 50.157992,
         "trustthreshold": "0.7"
     },
     {
@@ -2564,7 +2564,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 48.028887,
+        "attack_success_rate": 46.649862,
         "trustthreshold": "0.9"
     },
     {
@@ -2572,7 +2572,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 68.128445,
+        "attack_success_rate": 42.255825,
         "trustthreshold": "0.5"
     },
     {
@@ -2580,7 +2580,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 62.503098,
+        "attack_success_rate": 39.912037,
         "trustthreshold": "0.7"
     },
     {
@@ -2588,7 +2588,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 57.840364,
+        "attack_success_rate": 34.759765,
         "trustthreshold": "0.9"
     },
     {
@@ -2596,7 +2596,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 73.260515,
+        "attack_success_rate": 89.36905,
         "trustthreshold": "0.5"
     },
     {
@@ -2604,7 +2604,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 70.84,
+        "attack_success_rate": 85.335901,
         "trustthreshold": "0.7"
     },
     {
@@ -2612,7 +2612,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 68.246864,
+        "attack_success_rate": 80.554506,
         "trustthreshold": "0.9"
     },
     {
@@ -2620,7 +2620,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 61.420204,
+        "attack_success_rate": 71.28384,
         "trustthreshold": "0.5"
     },
     {
@@ -2628,7 +2628,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 58.12,
+        "attack_success_rate": 68.033705,
         "trustthreshold": "0.7"
     },
     {
@@ -2636,7 +2636,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 54.486896,
+        "attack_success_rate": 63.124336,
         "trustthreshold": "0.9"
     },
     {
@@ -2644,7 +2644,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 50.563428,
+        "attack_success_rate": 60.771441,
         "trustthreshold": "0.5"
     },
     {
@@ -2652,7 +2652,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 46.48,
+        "attack_success_rate": 57.984868,
         "trustthreshold": "0.7"
     },
     {
@@ -2660,7 +2660,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 43.425294,
+        "attack_success_rate": 53.447666,
         "trustthreshold": "0.9"
     },
     {
@@ -2668,7 +2668,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 84.064662,
+        "attack_success_rate": 87.424112,
         "trustthreshold": "0.5"
     },
     {
@@ -2676,7 +2676,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 78.66,
+        "attack_success_rate": 83.277476,
         "trustthreshold": "0.7"
     },
     {
@@ -2684,7 +2684,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 73.779582,
+        "attack_success_rate": 77.759904,
         "trustthreshold": "0.9"
     },
     {
@@ -2692,7 +2692,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 53.282171,
+        "attack_success_rate": 56.769353,
         "trustthreshold": "0.5"
     },
     {
@@ -2700,7 +2700,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 49.73,
+        "attack_success_rate": 53.85327,
         "trustthreshold": "0.7"
     },
     {
@@ -2708,7 +2708,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 45.897775,
+        "attack_success_rate": 50.087112,
         "trustthreshold": "0.9"
     },
     {
@@ -2716,7 +2716,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 65.498726,
+        "attack_success_rate": 45.532597,
         "trustthreshold": "0.5"
     },
     {
@@ -2724,7 +2724,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 59.52,
+        "attack_success_rate": 43.053227,
         "trustthreshold": "0.7"
     },
     {
@@ -2732,7 +2732,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 53.176206,
+        "attack_success_rate": 37.942806,
         "trustthreshold": "0.9"
     },
     {
@@ -2740,7 +2740,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 83.01979,
+        "attack_success_rate": 93.028508,
         "trustthreshold": "0.5"
     },
     {
@@ -2748,7 +2748,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 79.35,
+        "attack_success_rate": 89.079676,
         "trustthreshold": "0.7"
     },
     {
@@ -2756,7 +2756,7 @@
         "partition": "IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 74.170126,
+        "attack_success_rate": 84.554698,
         "trustthreshold": "0.9"
     },
     {
@@ -2764,7 +2764,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 55.622284,
+        "attack_success_rate": 75.053389,
         "trustthreshold": "0.5"
     },
     {
@@ -2772,7 +2772,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 51.48,
+        "attack_success_rate": 71.011293,
         "trustthreshold": "0.7"
     },
     {
@@ -2780,7 +2780,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 46.090035,
+        "attack_success_rate": 66.113423,
         "trustthreshold": "0.9"
     },
     {
@@ -2788,7 +2788,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 64.622592,
+        "attack_success_rate": 65.184011,
         "trustthreshold": "0.5"
     },
     {
@@ -2796,7 +2796,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 58.94,
+        "attack_success_rate": 61.435802,
         "trustthreshold": "0.7"
     },
     {
@@ -2804,7 +2804,7 @@
         "partition": "IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 54.804069,
+        "attack_success_rate": 56.817238,
         "trustthreshold": "0.9"
     },
     {
@@ -2812,7 +2812,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 79.576408,
+        "attack_success_rate": 92.358384,
         "trustthreshold": "0.5"
     },
     {
@@ -2820,7 +2820,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 74.28,
+        "attack_success_rate": 87.904115,
         "trustthreshold": "0.7"
     },
     {
@@ -2828,7 +2828,7 @@
         "partition": "IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 68.585082,
+        "attack_success_rate": 82.39342,
         "trustthreshold": "0.9"
     },
     {
@@ -2836,7 +2836,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 65.301132,
+        "attack_success_rate": 60.096369,
         "trustthreshold": "0.5"
     },
     {
@@ -2844,7 +2844,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 58.94,
+        "attack_success_rate": 56.737571,
         "trustthreshold": "0.7"
     },
     {
@@ -2852,7 +2852,7 @@
         "partition": "IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 52.525364,
+        "attack_success_rate": 52.636193,
         "trustthreshold": "0.9"
     },
     {
@@ -2860,7 +2860,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 53.658105,
+        "attack_success_rate": 48.197823,
         "trustthreshold": "0.5"
     },
     {
@@ -2868,7 +2868,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 47.92,
+        "attack_success_rate": 45.607821,
         "trustthreshold": "0.7"
     },
     {
@@ -2876,7 +2876,7 @@
         "partition": "IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 41.83889,
+        "attack_success_rate": 39.881623,
         "trustthreshold": "0.9"
     },
     {
@@ -2884,7 +2884,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 78.913276,
+        "attack_success_rate": 83.257867,
         "trustthreshold": "0.5"
     },
     {
@@ -2892,7 +2892,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 76.41,
+        "attack_success_rate": 79.465924,
         "trustthreshold": "0.7"
     },
     {
@@ -2900,7 +2900,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 71.878012,
+        "attack_success_rate": 74.977721,
         "trustthreshold": "0.9"
     },
     {
@@ -2908,7 +2908,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 48.553101,
+        "attack_success_rate": 67.054764,
         "trustthreshold": "0.5"
     },
     {
@@ -2916,7 +2916,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 44.86,
+        "attack_success_rate": 64.042557,
         "trustthreshold": "0.7"
     },
     {
@@ -2924,7 +2924,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 20,
-        "attack_success_rate": 41.238308,
+        "attack_success_rate": 59.64382,
         "trustthreshold": "0.9"
     },
     {
@@ -2932,7 +2932,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 46.095489,
+        "attack_success_rate": 59.240733,
         "trustthreshold": "0.5"
     },
     {
@@ -2940,7 +2940,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 42.75,
+        "attack_success_rate": 56.143804,
         "trustthreshold": "0.7"
     },
     {
@@ -2948,7 +2948,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 40.077783,
+        "attack_success_rate": 52.215087,
         "trustthreshold": "0.9"
     },
     {
@@ -2956,7 +2956,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 69.03969,
+        "attack_success_rate": 81.271238,
         "trustthreshold": "0.5"
     },
     {
@@ -2964,7 +2964,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 66.34,
+        "attack_success_rate": 76.70758,
         "trustthreshold": "0.7"
     },
     {
@@ -2972,7 +2972,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 20,
-        "attack_success_rate": 63.241979,
+        "attack_success_rate": 71.705464,
         "trustthreshold": "0.9"
     },
     {
@@ -2980,7 +2980,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 46.415566,
+        "attack_success_rate": 56.168989,
         "trustthreshold": "0.5"
     },
     {
@@ -2988,7 +2988,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 42.75,
+        "attack_success_rate": 53.043634,
         "trustthreshold": "0.7"
     },
     {
@@ -2996,7 +2996,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 20,
-        "attack_success_rate": 37.774056,
+        "attack_success_rate": 49.291851,
         "trustthreshold": "0.9"
     },
     {
@@ -3004,7 +3004,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 44.501169,
+        "attack_success_rate": 44.687288,
         "trustthreshold": "0.5"
     },
     {
@@ -3012,7 +3012,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 39.88,
+        "attack_success_rate": 42.184095,
         "trustthreshold": "0.7"
     },
     {
@@ -3020,7 +3020,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 20,
-        "attack_success_rate": 36.55089,
+        "attack_success_rate": 37.721162,
         "trustthreshold": "0.9"
     },
     {
@@ -3028,7 +3028,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 76.272679,
+        "attack_success_rate": 89.35195,
         "trustthreshold": "0.5"
     },
     {
@@ -3036,7 +3036,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 72.68,
+        "attack_success_rate": 85.293606,
         "trustthreshold": "0.7"
     },
     {
@@ -3044,7 +3044,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 70.188696,
+        "attack_success_rate": 81.013553,
         "trustthreshold": "0.9"
     },
     {
@@ -3052,7 +3052,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 68.47107,
+        "attack_success_rate": 71.389826,
         "trustthreshold": "0.5"
     },
     {
@@ -3060,7 +3060,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 64.07,
+        "attack_success_rate": 67.778042,
         "trustthreshold": "0.7"
     },
     {
@@ -3068,7 +3068,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 40,
-        "attack_success_rate": 60.616093,
+        "attack_success_rate": 63.846711,
         "trustthreshold": "0.9"
     },
     {
@@ -3076,7 +3076,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 56.812255,
+        "attack_success_rate": 63.301546,
         "trustthreshold": "0.5"
     },
     {
@@ -3084,7 +3084,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 52.48,
+        "attack_success_rate": 59.677593,
         "trustthreshold": "0.7"
     },
     {
@@ -3092,7 +3092,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 48.487633,
+        "attack_success_rate": 55.907676,
         "trustthreshold": "0.9"
     },
     {
@@ -3100,7 +3100,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 75.472939,
+        "attack_success_rate": 86.673231,
         "trustthreshold": "0.5"
     },
     {
@@ -3108,7 +3108,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 70.92,
+        "attack_success_rate": 82.380486,
         "trustthreshold": "0.7"
     },
     {
@@ -3116,7 +3116,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 40,
-        "attack_success_rate": 65.556106,
+        "attack_success_rate": 77.67443,
         "trustthreshold": "0.9"
     },
     {
@@ -3124,7 +3124,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 56.752875,
+        "attack_success_rate": 59.220996,
         "trustthreshold": "0.5"
     },
     {
@@ -3132,7 +3132,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 52.48,
+        "attack_success_rate": 55.916189,
         "trustthreshold": "0.7"
     },
     {
@@ -3140,7 +3140,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 40,
-        "attack_success_rate": 46.404506,
+        "attack_success_rate": 52.550676,
         "trustthreshold": "0.9"
     },
     {
@@ -3148,7 +3148,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 56.403651,
+        "attack_success_rate": 46.918478,
         "trustthreshold": "0.5"
     },
     {
@@ -3156,7 +3156,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 50.64,
+        "attack_success_rate": 44.423117,
         "trustthreshold": "0.7"
     },
     {
@@ -3164,7 +3164,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 40,
-        "attack_success_rate": 45.843767,
+        "attack_success_rate": 39.783971,
         "trustthreshold": "0.9"
     },
     {
@@ -3172,7 +3172,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 81.111312,
+        "attack_success_rate": 94.037122,
         "trustthreshold": "0.5"
     },
     {
@@ -3180,7 +3180,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 78.23,
+        "attack_success_rate": 89.667239,
         "trustthreshold": "0.7"
     },
     {
@@ -3188,7 +3188,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 73.087177,
+        "attack_success_rate": 84.83344,
         "trustthreshold": "0.9"
     },
     {
@@ -3196,7 +3196,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 61.98456,
+        "attack_success_rate": 75.728482,
         "trustthreshold": "0.5"
     },
     {
@@ -3204,7 +3204,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 57.36,
+        "attack_success_rate": 71.646198,
         "trustthreshold": "0.7"
     },
     {
@@ -3212,7 +3212,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 60,
-        "attack_success_rate": 53.335852,
+        "attack_success_rate": 67.288001,
         "trustthreshold": "0.9"
     },
     {
@@ -3220,7 +3220,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 61.315786,
+        "attack_success_rate": 66.451828,
         "trustthreshold": "0.5"
     },
     {
@@ -3228,7 +3228,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 55.92,
+        "attack_success_rate": 63.026116,
         "trustthreshold": "0.7"
     },
     {
@@ -3236,7 +3236,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 51.112205,
+        "attack_success_rate": 59.099214,
         "trustthreshold": "0.9"
     },
     {
@@ -3244,7 +3244,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 77.654162,
+        "attack_success_rate": 92.209192,
         "trustthreshold": "0.5"
     },
     {
@@ -3252,7 +3252,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 72.51,
+        "attack_success_rate": 87.89511,
         "trustthreshold": "0.7"
     },
     {
@@ -3260,7 +3260,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 60,
-        "attack_success_rate": 68.598257,
+        "attack_success_rate": 83.079279,
         "trustthreshold": "0.9"
     },
     {
@@ -3268,7 +3268,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 61.744992,
+        "attack_success_rate": 62.643451,
         "trustthreshold": "0.5"
     },
     {
@@ -3276,7 +3276,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 55.92,
+        "attack_success_rate": 59.288994,
         "trustthreshold": "0.7"
     },
     {
@@ -3284,7 +3284,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 60,
-        "attack_success_rate": 50.965272,
+        "attack_success_rate": 55.714651,
         "trustthreshold": "0.9"
     },
     {
@@ -3292,7 +3292,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 53.089648,
+        "attack_success_rate": 50.28722,
         "trustthreshold": "0.5"
     },
     {
@@ -3300,7 +3300,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 48.77,
+        "attack_success_rate": 47.233049,
         "trustthreshold": "0.7"
     },
     {
@@ -3308,7 +3308,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 60,
-        "attack_success_rate": 42.192053,
+        "attack_success_rate": 42.032442,
         "trustthreshold": "0.9"
     },
     {
@@ -3316,7 +3316,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 87.879494,
+        "attack_success_rate": 98.838676,
         "trustthreshold": "0.5"
     },
     {
@@ -3324,7 +3324,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 82.74,
+        "attack_success_rate": 94.498802,
         "trustthreshold": "0.7"
     },
     {
@@ -3332,7 +3332,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 77.03528,
+        "attack_success_rate": 89.897742,
         "trustthreshold": "0.9"
     },
     {
@@ -3340,7 +3340,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 58.163395,
+        "attack_success_rate": 79.456789,
         "trustthreshold": "0.5"
     },
     {
@@ -3348,7 +3348,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 53.61,
+        "attack_success_rate": 75.849609,
         "trustthreshold": "0.7"
     },
     {
@@ -3356,7 +3356,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SV",
         "byzantine_ratio": 80,
-        "attack_success_rate": 49.734796,
+        "attack_success_rate": 71.294628,
         "trustthreshold": "0.9"
     },
     {
@@ -3364,7 +3364,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 65.661878,
+        "attack_success_rate": 70.123994,
         "trustthreshold": "0.5"
     },
     {
@@ -3372,7 +3372,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 60.28,
+        "attack_success_rate": 66.433789,
         "trustthreshold": "0.7"
     },
     {
@@ -3380,7 +3380,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-SC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 54.11378,
+        "attack_success_rate": 62.38411,
         "trustthreshold": "0.9"
     },
     {
@@ -3388,7 +3388,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 80.428585,
+        "attack_success_rate": 97.595465,
         "trustthreshold": "0.5"
     },
     {
@@ -3396,7 +3396,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 76.19,
+        "attack_success_rate": 92.491652,
         "trustthreshold": "0.7"
     },
     {
@@ -3404,7 +3404,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-CC",
         "byzantine_ratio": 80,
-        "attack_success_rate": 70.243672,
+        "attack_success_rate": 87.485199,
         "trustthreshold": "0.9"
     },
     {
@@ -3412,7 +3412,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 67.021826,
+        "attack_success_rate": 65.362968,
         "trustthreshold": "0.5"
     },
     {
@@ -3420,7 +3420,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 60.28,
+        "attack_success_rate": 61.806554,
         "trustthreshold": "0.7"
     },
     {
@@ -3428,7 +3428,7 @@
         "partition": "Non-IID",
         "baseline": "FedFCA-TF",
         "byzantine_ratio": 80,
-        "attack_success_rate": 54.121512,
+        "attack_success_rate": 57.268443,
         "trustthreshold": "0.9"
     },
     {
@@ -3436,7 +3436,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 57.585442,
+        "attack_success_rate": 51.088346,
         "trustthreshold": "0.5"
     },
     {
@@ -3444,7 +3444,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 50.54,
+        "attack_success_rate": 48.549545,
         "trustthreshold": "0.7"
     },
     {
@@ -3452,7 +3452,7 @@
         "partition": "Non-IID",
         "baseline": "BR-FedFCA",
         "byzantine_ratio": 80,
-        "attack_success_rate": 43.531446,
+        "attack_success_rate": 42.392077,
         "trustthreshold": "0.9"
     }
 ]
