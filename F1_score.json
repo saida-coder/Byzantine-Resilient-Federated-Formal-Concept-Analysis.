@@ -1,3458 +1,3458 @@
 [
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5965,
-        "trustthreshold": "0.5"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6306,
-        "trustthreshold": "0.7"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6534,
-        "trustthreshold": "0.9"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6464,
-        "trustthreshold": "0.5"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6727,
-        "trustthreshold": "0.7"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6931,
-        "trustthreshold": "0.9"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6779,
-        "trustthreshold": "0.5"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7003,
-        "trustthreshold": "0.7"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7166,
-        "trustthreshold": "0.9"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6878,
-        "trustthreshold": "0.5"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7134,
-        "trustthreshold": "0.7"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7317,
-        "trustthreshold": "0.9"
-    },
-    {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8065,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.875,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.8382,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.8032,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.7464,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.5826,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.4898,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.3957,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.2682,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6869,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.5974,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5117,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.4,
+        "trustthreshold":"0.5"
+    },
+    {
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6679,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8256,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6066,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8398,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.5473,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8769,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.4518,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8987,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6352,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.9132,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.5669,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5157,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.496,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.558,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.373,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5831,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.7639,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5815,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7208,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6187,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.6974,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6478,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.6202,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.622,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8191,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6597,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.7723,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6852,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.7137,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6202,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.6661,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6561,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.5196,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6793,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.4061,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7618,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.2711,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7951,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.1367,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.817,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6235,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8486,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.5131,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.878,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.4296,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.9028,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.2967,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4024,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6139,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.452,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.5409,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4867,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.4531,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4992,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.3462,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.55,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.5893,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5829,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.508,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5581,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.4004,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6028,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.2783,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6352,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.7264,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.538,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.6704,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5826,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.607,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6128,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.5228,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7238,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8368,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7617,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.8,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7871,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.7622,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.8125,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.7178,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.8524,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.52,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.8886,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.4154,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3194,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.2861,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3715,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.1664,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4078,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6255,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4246,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.5513,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4819,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.4375,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5236,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.328,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4901,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6209,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5463,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.537,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5842,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.4764,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4536,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.3843,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5078,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.5954,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5453,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.5122,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6776,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.4396,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7245,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.31,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7532,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.7371,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7806,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.6768,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.8265,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.6308,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.8666,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.5618,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5657,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.7841,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5958,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.7379,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6165,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.6692,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6038,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.6238,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6328,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.4812,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6568,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.3586,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6269,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.2022,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6535,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.1127,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6702,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.569,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6323,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.4521,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6586,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.3848,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6762,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.2162,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7676,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.5522,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7876,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.4964,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8045,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.4119,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8393,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.2997,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8611,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.5283,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8795,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.4363,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4489,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.3392,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4948,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.1907,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5211,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.703,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.527,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.6484,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5682,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.5733,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5981,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.5033,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5589,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8781,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5945,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.8551,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6234,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.8156,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5427,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.7744,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5824,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.5977,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.61,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.5165,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7163,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.3967,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7491,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.3168,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7724,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6875,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8022,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.6308,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8325,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5343,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8554,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.4475,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3253,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6824,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3806,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6254,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4176,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.565,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4326,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.488,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4837,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6454,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5257,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.5803,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4828,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.4927,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5292,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.4113,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5651,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.8026,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4552,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7586,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5005,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.7307,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5376,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.6755,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6676,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.845,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7096,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.813,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7468,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.7472,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.757,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.7239,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7996,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.5562,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.832,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.4629,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2078,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.3328,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2703,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.2193,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3168,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6334,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.326,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.5589,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3916,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.459,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4393,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.3466,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3827,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6234,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4437,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.5627,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4894,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.5051,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3413,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.3912,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3985,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6025,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4412,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.5208,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5933,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.4217,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6465,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.322,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6898,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.7586,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7099,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7152,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7629,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.6685,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "mushroom",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.8011,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.5949,
+        "trustthreshold":"0.5"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5228,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.9166,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5553,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.9061,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5744,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.8705,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.589,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.8183,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6151,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.6332,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6353,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.5555,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6163,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.5141,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6417,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.3617,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6588,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.7232,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.621,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.6705,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6472,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5778,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6697,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.5026,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7306,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.7292,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7509,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6583,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.765,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.6229,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8442,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.5597,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8618,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6989,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8797,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.6413,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4222,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.5717,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4616,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.4831,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4848,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.8063,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5135,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7599,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.551,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.7585,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5762,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.6962,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5521,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8593,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5838,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.825,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6077,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.7971,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5352,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.7564,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5691,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.5801,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5973,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.4782,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6817,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.3731,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7151,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.2361,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.735,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6682,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8049,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.5917,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.835,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.4873,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8566,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.4085,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.2896,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.682,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3404,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6204,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3696,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.5664,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4183,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.4489,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4712,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6441,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5075,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.5719,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4724,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.4998,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5184,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.3752,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5481,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.766,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4407,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7118,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4845,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.6796,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5182,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.6296,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6277,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8804,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6743,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.8371,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7026,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.83,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7668,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.7887,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.8047,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.5647,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.836,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.4729,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.1586,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.3749,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2223,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.2729,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.261,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6613,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3059,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.6319,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3645,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5065,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.409,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.4122,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3774,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6682,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4299,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6175,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4684,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.5595,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3228,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.4833,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3715,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6426,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4098,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.5904,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5583,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.5467,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6105,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.4166,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6422,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.781,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.714,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7325,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7628,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.6949,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7998,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.6495,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.4769,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8212,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5102,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.7851,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5286,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.7185,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5283,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.7022,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5587,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.5276,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5793,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.505,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5671,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.2902,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5915,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.243,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.608,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6148,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5756,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.534,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6007,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.4252,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6197,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.3099,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7162,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.5984,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7353,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.5495,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7537,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.4772,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7832,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.4107,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7996,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.584,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8159,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.5153,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.3492,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.4116,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.3958,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.2803,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4258,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.7548,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4402,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.6981,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4778,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.6631,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5043,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.5525,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4897,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8982,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5232,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.8947,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5505,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.8744,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4725,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.8338,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5098,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.6598,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5363,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.601,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6463,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.4882,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6794,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.4303,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7034,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.7262,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7403,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.704,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7704,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.591,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7979,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.5233,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.1919,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.7223,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.2541,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6873,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.2939,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.687,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3256,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.5947,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.378,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6951,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4137,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.6514,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3878,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.5796,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4397,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.5191,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.477,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.8453,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3543,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.8082,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4102,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.7782,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4447,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.7667,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.583,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8886,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6312,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.8749,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6648,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.8054,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6833,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.779,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7297,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.6179,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7641,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.5511,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.12,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.4171,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.128,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.3353,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.1699,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6725,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.1925,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.6224,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2605,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5229,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3037,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.4174,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2823,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6719,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3407,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6288,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3817,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.5718,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2135,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.4995,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2789,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6666,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3185,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.6007,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4994,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.497,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5581,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.4382,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5984,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.8136,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6215,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7788,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6824,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.7444,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "chess",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7272,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.6552,
+        "trustthreshold":"0.7"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5852,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.9076,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6161,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.9229,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6368,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.8907,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6368,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.8173,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6658,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.6575,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6881,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.594,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6709,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.5447,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6965,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.3478,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7161,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.748,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.681,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.6901,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7096,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5827,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7286,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.4617,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7616,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.7516,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7863,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.7106,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8055,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.6534,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8675,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.5354,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.889,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6984,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.9057,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.6792,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4831,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.6111,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5273,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.4601,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5518,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.815,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.566,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7813,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6053,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.7947,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6326,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.6719,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6079,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8791,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6422,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.8502,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6662,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.7952,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5991,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.6908,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6344,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.5989,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6607,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.5189,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7136,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.359,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7474,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.1437,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.772,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.7008,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8328,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.6291,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.863,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5099,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8849,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.3364,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3761,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6761,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4291,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.646,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4577,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.56,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4872,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.3928,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5393,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6601,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5715,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.6304,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5466,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.4985,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5943,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.2984,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6221,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.7667,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5208,
-        "trustthreshold": "0.5"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7405,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5676,
-        "trustthreshold": "0.7"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.676,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5998,
-        "trustthreshold": "0.9"
+        "dataset":"T10I4D100K",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.5646,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6834,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8934,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7204,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.8698,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7507,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.8552,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.8053,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.7693,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.8444,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.6097,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.8766,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.5285,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2658,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.3791,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3244,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.2324,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3568,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6805,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3804,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.6646,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4394,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5148,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4721,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.373,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4528,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6748,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5127,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6436,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5469,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.5775,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.408,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.4331,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4649,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6659,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5016,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.6363,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6126,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.61,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6604,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.3817,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6965,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.8022,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7524,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7862,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.8046,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.7253,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.8464,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.6294,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5224,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8547,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.555,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.8068,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5733,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.6996,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.5879,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.6267,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6133,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.5429,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6345,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.5044,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6176,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.3071,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.64,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.116,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6597,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.638,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6248,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.5562,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.651,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.4569,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 20,
-        "f1_score": 0.6733,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.2562,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7191,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6333,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.7407,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6029,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 20,
-        "f1_score": 0.757,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.5135,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8118,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.3332,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8334,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.618,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 20,
-        "f1_score": 0.8481,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.5549,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4046,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.4159,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4491,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.202,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4757,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.7707,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.4917,
-        "trustthreshold": "0.5"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.7462,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.53,
-        "trustthreshold": "0.7"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.6497,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5554,
-        "trustthreshold": "0.9"
+        "dataset":"chess",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.5265,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5412,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.9359,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5764,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.9388,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6057,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.8852,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5201,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.8218,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5562,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.6668,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 40,
-        "f1_score": 0.5863,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.6212,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6633,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.5115,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.6964,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.364,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7243,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.7466,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.7791,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.7511,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8082,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5942,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 40,
-        "f1_score": 0.8291,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.5128,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.2737,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.753,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3294,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.7389,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.3612,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.669,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4015,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.5471,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4507,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.7193,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4861,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.6682,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4594,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.5824,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5057,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.4955,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5418,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.8661,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4234,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.806,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.4724,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.8166,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 60,
-        "f1_score": 0.5086,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.7356,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6067,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.8884,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6568,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.9145,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 60,
-        "f1_score": 0.6895,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.8061,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.7383,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"BR-FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.7336,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.776,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":20,
+        "f1_score":0.6498,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 60,
-        "f1_score": 0.809,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":40,
+        "f1_score":0.591,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.1341,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":60,
+        "f1_score":0.4181,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2008,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA",
+        "byzantine_ratio":80,
+        "f1_score":0.2864,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2394,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":20,
+        "f1_score":0.6807,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2777,
-        "trustthreshold": "0.5"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":40,
+        "f1_score":0.6638,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3394,
-        "trustthreshold": "0.7"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":60,
+        "f1_score":0.5457,
+        "trustthreshold":"0.9"
     },
     {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SV",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3816,
-        "trustthreshold": "0.9"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.3494,
-        "trustthreshold": "0.5"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4094,
-        "trustthreshold": "0.7"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-SC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.453,
-        "trustthreshold": "0.9"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.2945,
-        "trustthreshold": "0.5"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.359,
-        "trustthreshold": "0.7"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-CC",
-        "byzantine_ratio": 80,
-        "f1_score": 0.4083,
-        "trustthreshold": "0.9"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5252,
-        "trustthreshold": "0.5"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.5865,
-        "trustthreshold": "0.7"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "FedFCA-TF",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6276,
-        "trustthreshold": "0.9"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.6816,
-        "trustthreshold": "0.5"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7292,
-        "trustthreshold": "0.7"
-    },
-    {
-        "dataset": "T10I4D100K",
-        "partition": "Non-IID",
-        "baseline": "BR-FedFCA",
-        "byzantine_ratio": 80,
-        "f1_score": 0.7675,
-        "trustthreshold": "0.9"
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-CC",
+        "byzantine_ratio":80,
+        "f1_score":0.3896,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":20,
+        "f1_score":0.6918,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":40,
+        "f1_score":0.6631,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":60,
+        "f1_score":0.58,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SC",
+        "byzantine_ratio":80,
+        "f1_score":0.4394,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":20,
+        "f1_score":0.6819,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":40,
+        "f1_score":0.6415,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":60,
+        "f1_score":0.5173,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-SV",
+        "byzantine_ratio":80,
+        "f1_score":0.3454,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":20,
+        "f1_score":0.8239,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":40,
+        "f1_score":0.8097,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":60,
+        "f1_score":0.7605,
+        "trustthreshold":"0.9"
+    },
+    {
+        "dataset":"mushroom",
+        "partition":"Non-IID",
+        "baseline":"FedFCA-TF",
+        "byzantine_ratio":80,
+        "f1_score":0.6383,
+        "trustthreshold":"0.9"
     }
 ]
